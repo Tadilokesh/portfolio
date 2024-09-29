@@ -1,4 +1,4 @@
-const text = "software Developer";
+const text = "Software Developer";
 let index = 0;
 const typingElement = document.getElementById("typing");
 
